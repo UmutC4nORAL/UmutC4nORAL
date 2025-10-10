@@ -1,6 +1,6 @@
 # Hi there 👋,I'm Umut Can.
 
-### A Computer Engineering Student from Bursa/Turkey
+### A Computer Engineer from Bursa/Turkey
 
 - 🔭I graduated from Uludağ University.
 - 🌱 I’m currently learning React.
